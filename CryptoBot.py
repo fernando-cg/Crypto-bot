@@ -9,7 +9,7 @@ import telegram.ext as tl
 from tabulate import tabulate
 import matplotlib.pyplot as plt
 
-token = '5068805907:AAHdF-5G54qJ24HiZe2Lx9dSbz9XJzVQ4Us'
+token = '' #token de telegram bot father
 bot = telegram.Bot(token=token)
 global jq
 #Hacer que compre de forma inteligente
